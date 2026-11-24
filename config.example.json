@@ -1,0 +1,18 @@
+{
+  "owner_name": "YOUR_FIRST_NAME",
+  "workspace_root": "",
+  "slack_mcp_server": "work-slack",
+  "poll_interval_seconds": 30,
+  "poll_mode": "direct",
+  "poll_model": "haiku",
+  "draft_model": "",
+  "draft_timeout_seconds": 1200,
+  "use_chrome": false,
+  "chrome_note": "",
+  "language_mix": [["Plain English.", 1]],
+  "lookback_days": 1,
+  "quiet_hours": [],
+  "slack_user_id": "",
+  "slack_team_id": "",
+  "started_at_ts": ""
+}

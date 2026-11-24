@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          { "type": "command", "command": "/usr/bin/python3 \"__HERE__/guard_hook.py\"" }
+        ]
+      }
+    ]
+  }
+}

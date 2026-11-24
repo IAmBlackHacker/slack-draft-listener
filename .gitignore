@@ -1,0 +1,8 @@
+# personal / machine-specific — never commit
+config.json
+claude-settings.json
+state/
+drafts/
+__pycache__/
+*.pyc
+.DS_Store
